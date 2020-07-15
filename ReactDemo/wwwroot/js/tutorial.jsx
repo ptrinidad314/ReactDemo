@@ -1,7 +1,7 @@
 ﻿
 const data = [
-    { id: 1, author:'Daniel Lo Nigros', text:'Hello ReactJS.NET World!' },
-    { id: 2, author:'Pete Hunts', text: 'This one comment' },
+    { id: 1, author:'Daniel Lo Nigros', text:'Hello ReactJS.NET Worlds!' },
+    { id: 2, author:'Pete Hunts', text: 'This one comments' },
     { id: 3, author: 'Jordan Walkes', text: 'This is *another* comments'}
 ];
 
